@@ -1,0 +1,110 @@
+*{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+}
+
+.banner{
+    margin: 10%; /*espaço externo*/
+    padding: 0%; /*serve pra espaço interno*/
+    box-sizing: border-box; /*serve para mudar o conteúdo dentro da caixa*/
+   
+}
+
+.st{
+    width: 300px; /* a largura da logo*/
+  
+}
+ .hd {
+    text-align: center; /*serve pra centralizar*/
+    background-color: #141438; /*mudar a cor de fundo*/
+    height: 250px; /*a altura*/
+    
+ }
+ a {
+    margin-top: 70%; /*especificar o elemento como quer*/
+    background-color: #c4966b; /* cor de fundo*/
+    padding: 1%; /*serve pra espaço interno*/
+    border-radius: 15px;
+    margin: 100px;
+ }
+ nav {
+    margin-top: 4%;
+ }
+ #banner {
+    width: 100%;
+    height: 400px;
+    background-image: url(./IMAGENS/thumb-1920-1403789.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    
+ }
+
+ #paragrafo {
+   padding: 150px;
+   color: honeydew;
+   width: 900px;
+   font-size: 25px;
+   text-align: center;
+
+ }
+ img {
+   width: 150px;
+ }
+ .card {
+   text-align: center;
+   width: 350px;
+   height: 250px;
+   background-color:#410d1a;
+   margin: 15px;
+   display: inline-block;
+   color: aliceblue;
+   border-radius: 30px ;
+ }
+ #temporadas {
+   width: 100%;
+   height: 400px;
+   background-color: #141438;
+ }
+ .card-temporadas {
+   display: inline-block;
+   width: 450px;
+   height: 250px;
+   background-color: #410d1a;
+   border-radius: 25px;
+   text-align: center;
+   margin-left: 150px;
+   
+ }
+ footer{
+   padding-top: 20px;
+   height: 135px;
+   background-color: black;
+   color: aliceblue;
+   text-align: center;
+   font-size: 25px;
+ }
+ #temp3 {
+   width: 350px;
+   height: 200px;
+ }
+ #temp4 {
+   width: 350px;
+   height: 200px;
+ } 
+ h3{
+   color: #c4966b;
+ }
+ #eleven{
+   padding-top: 40px;
+ }
+ #will {
+   padding-top: 50px;
+ }
+ #dustin{
+   padding-top: 53px;
+ }
+#personagens {
+   background-color: #7b6561;
+}
