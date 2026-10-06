@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+ }
+ 
+ 
+ .st{
+     width: 300px; /* a largura da logo*/
+   
+ }
+  .hd {
+     text-align: center; /*serve pra centralizar*/
+     background-color: #141438; /*mudar a cor de fundo*/
+     height: 300px; /*a altura*/
+     
+  }
+  a {
+     margin-top: 70%; /*especificar o elemento como quer*/
+     background-color: #c4966b; /* cor de fundo*/
+     padding: 1%; /*serve pra espaço interno*/
+     border-radius: 15px;
+     margin: 10px;
+  } 
+  NAV {
+    margin-top: 4%;
+  }
+  .container {
+    background-color:#7b6561;
+    height: 100vh;
+    display: flex;
+    width: 100%;
+    gap: 20px;
+ flex-direction: row;
+ justify-content: center; 
+
+ 
+  }
+  .item {
+    background-color: #410d1a;
+    width: 400px;
+    height: 500px;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    
+    align-items: center;
+    border-radius: 2%;
+    margin-top: 5%;
+  }
+ 
+  .lucas {
+    width: 250px;
+    height: 250px;
+  }
+  p {
+    color: white;
+    font-size: 20px;
+  }
+h1 {
+    background-color: #7b6561;
+    color: #c4966b;
+    text-align: center;
+}
+div {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
+  border-radius: 5px;
+  
+  
+}
+.cor {
+  background-color:#c4966b;
+}
